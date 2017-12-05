@@ -6,3 +6,4 @@ Polyglot mode!!!
 - Day 2: Ruby
 - Day 3: Common Lisp (SBCL)
 - Day 4: Shell script (ZSH)
+- Day 5: Python
