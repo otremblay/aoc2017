@@ -6,7 +6,7 @@ func main(){
 
 total := 0
 offset := len(ring) / 2
-	for k := range ring {
+for k := range ring {
 		target := k + offset
 		if len(ring) <= target {
 			target = target - len(ring)
